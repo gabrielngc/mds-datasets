@@ -8,6 +8,12 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is an annual telephone su
 
 This data set is a random sample of 20,000 people from the BRFSS survey conducted in 2000. While there are over 200 questions or variables in this dataset, this data set only includes 9 variables.
 
+
 ## [kobe.csv](https://www.openintro.org/book/statdata/index.php?data=kobe)
 
 Data from the five games the Los Angeles Lakers played against the Orlando Magic in the 2009 NBA finals. Each row represents a shot Kobe Bryant took during these games. Kobe Bryant's performance against the Orlando Magic in the 2009 NBA finals earned him the title of Most Valuable Player and many spectators commented on how he appeared to show a hot hand.
+
+
+## [bdims.csv](https://www.openintro.org/book/statdata/index.php?data=bdims)
+
+Body girth measurements and skeletal diameter measurements, as well as age, weight, height and gender, are given for 507 physically active individuals - 247 men and 260 women. These data can be used to provide statistics students practice in the art of data analysis. Such analyses range from simple descriptive displays to more complicated multivariate analyses such as multiple regression and discriminant analysis.
