@@ -20,6 +20,12 @@ Data from the five games the Los Angeles Lakers played against the Orlando Magic
 
 Body girth measurements and skeletal diameter measurements, as well as age, weight, height and gender, are given for 507 physically active individuals - 247 men and 260 women. These data can be used to provide statistics students practice in the art of data analysis. Such analyses range from simple descriptive displays to more complicated multivariate analyses such as multiple regression and discriminant analysis.
 
+### [ames.csv](https://www.openintro.org/book/statdata/index.php?data=ames)
+
+All residential home sales in Ames, Iowa between 2006 and 2010. The data set contains many explanatory variables on the quality and quantity of physical attributes of residential homes in Iowa sold between 2006 and 2010. Most of the variables describe information a typical home buyer would like to know about a property (square footage, number of bedrooms and bathrooms, size of lot, etc.).
+
+De Cock D. 2011. Ames, Iowa: [Alternative to the Boston Housing Data as an End of Semester Regression Project](https://jse.amstat.org/v19n3/decock.pdf). Journal of Statistics Education; 19(3).
+
 
 ## MDS205 Machine Learning I
 
