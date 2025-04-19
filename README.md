@@ -30,6 +30,18 @@ De Cock D. 2011. Ames, Iowa: [Alternative to the Boston Housing Data as an End o
 
 Survey results on atheism across several countries and years. Each row represents a single respondent.
 
+### [nc.csv](https://www.openintro.org/book/statdata/index.php?data=nc)
+
+Data set on 1,000 randomly sampled births from the birth records released by the state of North Carolina in 2004. This data set has been of interest to medical researchers who are studying the relation between habits and practices of expectant mothers and the birth of their children.
+
+### [mlb11.csv](https://www.openintro.org/book/statdata/index.php?data=mlb11)
+
+Data from all 30 Major League Baseball teams from the 2011 season. This data set is useful for examining the relationships between wins, runs scored in a season, and a number of other player statistics.
+
+### [evals.csv](https://www.openintro.org/book/statdata/index.php?data=evals)
+
+The data are gathered from end of semester student evaluations for a large sample of professors from the University of Texas at Austin. In addition, six students rate the professors' physical appearance. The result is a data frame where each row contains a different course and each column has information on either the course or the professor.
+
 
 ## MDS205 Machine Learning I
 
