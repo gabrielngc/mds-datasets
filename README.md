@@ -26,6 +26,10 @@ All residential home sales in Ames, Iowa between 2006 and 2010. The data set con
 
 De Cock D. 2011. Ames, Iowa: [Alternative to the Boston Housing Data as an End of Semester Regression Project](https://jse.amstat.org/v19n3/decock.pdf). Journal of Statistics Education; 19(3).
 
+### [atheism.csv](https://www.openintro.org/book/statdata/index.php?data=atheism)
+
+Survey results on atheism across several countries and years. Each row represents a single respondent.
+
 
 ## MDS205 Machine Learning I
 
@@ -34,3 +38,4 @@ De Cock D. 2011. Ames, Iowa: [Alternative to the Boston Housing Data as an End o
 Diagnostic Wisconsin Breast Cancer Database
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.  They describe characteristics of the cell nuclei present in the image. A few of the images can be found at http://www.cs.wisc.edu/~street/images/.
+
