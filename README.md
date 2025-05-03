@@ -51,3 +51,12 @@ Diagnostic Wisconsin Breast Cancer Database
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.  They describe characteristics of the cell nuclei present in the image. A few of the images can be found at http://www.cs.wisc.edu/~street/images/.
 
+### [us_census_income_data_clean.csv](https://archive.ics.uci.edu/dataset/20/census+income)
+
+Predict whether income exceeds $50K/yr based on census data. Also known as Adult dataset.
+
+Extraction was done by Barry Becker from the 1994 Census database.  A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0))
+
+Prediction task is to determine whether a person makes over 50K a year.
+
+
